@@ -8,8 +8,6 @@
 int main(){
 
 
-
-
 struct stat filest;
 
 stat("test2.txt",&filest);

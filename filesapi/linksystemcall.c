@@ -12,5 +12,7 @@ scanf("%s",path2);
 
 if(link(path1,path2)==-1)
 	printf("Error in linking\n");
+else
+	printf("Linked %s to %s\n",path1,path2);
 return 0;
 }
