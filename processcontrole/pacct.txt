@@ -1,0 +1,7 @@
+ accton    e =      6, chars =       0, stat =   0:       S
+   sh        e =   2106, chars =   15632, stat =   0:       S
+   dd        e =      8, chars =  273344, stat =   0:           second child
+   a.out     e =    202, chars =     921, stat =   0:           parent
+   a.out     e =    407, chars =       0, stat = 134:     F     first child
+   a.out     e =    600, chars =       0, stat =   9:     F     fourth child
+   a.out     e =    801, chars =       0, stat =   0:     F 
